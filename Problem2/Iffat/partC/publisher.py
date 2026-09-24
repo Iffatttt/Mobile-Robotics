@@ -12,8 +12,8 @@
 #  colcon build --packages-select first_package
 # source ~/ros2_ws/install/setup.bash
 #  source /opt/ros/jazzy/setup.bash
-# ros2 run first_package talker
-# ros2 run first_package listener
+# terminal 1:ros2 run first_package talker
+# terminal 2:ros2 run first_package listener
 
 
 import rclpy
